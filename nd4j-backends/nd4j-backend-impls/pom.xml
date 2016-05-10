@@ -14,7 +14,11 @@
 
     <modules>
         <module>nd4j-native</module>
+        <module>nd4j-native-lib</module>
+<!--        <module>nd4j-native-all</module>-->
         <module>nd4j-cuda-7.5</module>
+        <module>nd4j-cuda-7.5-lib</module>
+<!--        <module>nd4j-cuda-7.5-all</module>-->
     </modules>
 
     <properties>
